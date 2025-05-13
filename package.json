@@ -1,0 +1,16 @@
+{
+  "name": "pdf-pagesize-books",
+  "version": "1.0.0",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.50.1",
+    "yargs": "^17.7.2"
+  }
+}
